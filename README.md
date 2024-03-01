@@ -1,1 +1,1 @@
-# Simpleeventregistrationwebsite
+# Simple event registration website
